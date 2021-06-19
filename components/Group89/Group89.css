@@ -1,0 +1,28 @@
+.group-90 {
+  align-items: flex-start;
+  display: flex;
+  height: 1685px;
+  justify-content: flex-end;
+  left: 80px;
+  min-width: 1280px;
+  opacity: 0.04;
+  position: absolute;
+  top: 0;
+}
+.line {
+  height: 1685px;
+  margin-left: 319px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-4 {
+  height: 1685px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-8 {
+  height: 1685px;
+  margin-left: 318px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
